@@ -3,12 +3,13 @@ Welcome to The notepad app using python3 by Mal4d.
 
 # Linux User
 
-python3 notepad.py
-
+`python3 notepad.py
+`
 
 # Windows Users 
 
-python notepad.py
+`python notepad.py
+`
 
 # Image
 
